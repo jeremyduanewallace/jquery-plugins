@@ -5,3 +5,9 @@ $( function() {
 $( function() {
     $( "#accordion" ).accordion();
   } );
+
+$( function() {
+    $( "#draggable" ).draggable();
+  } );
+
+
